@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "/ip -> cristalina.shockbyte.me 🐞",
+        name: "ip -> cristalina.shockbyte.me 🐞",
         // Activity type number (0 = Playing).
         type: 0, 
       },
